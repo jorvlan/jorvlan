@@ -1,4 +1,4 @@
-[Jordy's github stats](https://readme-stats.clckblog.space/api?username=jorvlan&show_icons=true) 
+![Jordy's github stats](https://readme-stats.clckblog.space/api?username=jorvlan&show_icons=true) 
 
 - 👋 Hi, I’m [@jorvlan](https://www.github.com/jorvlan) / Jordy van Langen
 - 👀 I’m interested in best open-source/open-science practices through (1) creating, (2) sharing and (3) helping others with code and data visualizations. I am also doing scientific research as my main job [@Donders](https://www.ru.nl/donders/) & [@lcd-lab](https://www.rogierkievit.com/) as part of the [NWO Open Science Fund](https://www.nwo.nl/en/projects/203001011)
