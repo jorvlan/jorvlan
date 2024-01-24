@@ -5,7 +5,7 @@
 - :koala: I am a former visiting junior researcher at the Brain and Mind Centre, University of Sydney, Australia. 
 - 🌱 We have just published our *2nd* [`raincloudplots`](https://github.com/jorvlan/raincloudplots) R-package called [`ggrain`](https://cran.r-project.org/web/packages/ggrain/index.html) 
 - 💞️ I'm contributing to the free open-source [JASP Statistics](https://jasp-stats.org), developing a new 'raincloudplots' Shiny App,  and educating the wider academic community on data visualizations through our [Virtual workshops](https://www.github.com/jorvlan/raincloudplots-workshops), all funded by our awarded [NWO Open Science Fund](https://www.nwo.nl/en/news/26-projects-stimulate-open-science)
-- We (Rogier Kievit, [@njudd](https://github.com/njudd) have received a 2023 NWO Open Science grant for our project: [Open Matrices: A global, free resource for testing cognitive ability](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2023-awarded-grants). More to come soon!
+- I (with Rogier Kievit, [@njudd](https://github.com/njudd)) have received a 2023 NWO Open Science grant for our project: [Open Matrices: A global, free resource for testing cognitive ability](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund/open-science-fund-2023-awarded-grants). More to come soon!
 - 📫 How to reach me ... -> [bsky.app](https://bsky.app/profile/jordyvanlangen.bsky.social) / [mas.to/@jordyvanlangen](https://mas.to/@jordyvanlangen) / jordyvanlangen@gmail.com 
 
 <!---
